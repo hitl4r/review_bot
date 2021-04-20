@@ -8,5 +8,5 @@ Also, you have to import on your computer several packages:
 3. clipboard
 4. time (probably imported by default)
 
-To import packages you have to open cmd and type: pip install packagename
+To import packages you have to open cmd and type: pip install packagename.
 Common problem is "pip command not recognized" - then you have to add python and python\scripts to PATH.
