@@ -1,5 +1,5 @@
 # review_bot
-Bot, that creates gmail account and writes reviews on Google Maps.
+Bot, that creates Gmail account and writes reviews on Google Maps.
 ------------------------------------------------------------------
 You have to have install python on your computer.
 Also, you have to import on your computer several packages:
